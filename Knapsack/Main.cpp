@@ -68,7 +68,7 @@ int main()
 	{
 		read >> n;
 		read >> anzahlWk;
-		read >> lWk;
+		read >> lWk; 
 		read >> preis;
 
 
